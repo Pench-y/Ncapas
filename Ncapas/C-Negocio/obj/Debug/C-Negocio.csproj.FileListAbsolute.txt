@@ -1,0 +1,11 @@
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\obj\Debug\C-Negocio.csproj.AssemblyReference.cache
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\obj\Debug\C-Negocio.csproj.CoreCompileInputs.cache
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\bin\Debug\C-Negocio.dll
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\bin\Debug\C-Negocio.pdb
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\bin\Debug\C-Datos.dll
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\bin\Debug\C-Entidades.dll
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\bin\Debug\C-Datos.pdb
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\bin\Debug\C-Entidades.pdb
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\obj\Debug\C-Negocio.csproj.CopyComplete
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\obj\Debug\C-Negocio.dll
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Negocio\obj\Debug\C-Negocio.pdb

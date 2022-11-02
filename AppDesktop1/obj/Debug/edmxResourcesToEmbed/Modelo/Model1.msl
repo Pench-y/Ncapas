@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CrCrudModelStoreContainer" CdmEntityContainer="CrCrudEntities2">
+    <EntitySetMapping Name="datos">
+      <EntityTypeMapping TypeName="CrCrudModel.datos">
+        <MappingFragment StoreEntitySet="datos">
+          <ScalarProperty Name="fk_usuarios" ColumnName="fk_usuarios" />
+          <ScalarProperty Name="valor" ColumnName="valor" />
+          <ScalarProperty Name="producto" ColumnName="producto" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuarios">
+      <EntityTypeMapping TypeName="CrCrudModel.usuarios">
+        <MappingFragment StoreEntitySet="usuarios">
+          <ScalarProperty Name="rol" ColumnName="rol" />
+          <ScalarProperty Name="pass" ColumnName="pass" />
+          <ScalarProperty Name="nombre_completo" ColumnName="nombre_completo" />
+          <ScalarProperty Name="nombre_usuario" ColumnName="nombre_usuario" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

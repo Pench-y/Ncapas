@@ -1,0 +1,17 @@
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\obj\Debug\C-Presentacion.csproj.AssemblyReference.cache
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\obj\Debug\C_Presentacion.Form1.resources
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\obj\Debug\C-Presentacion.csproj.GenerateResource.cache
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\obj\Debug\C-Presentacion.csproj.CoreCompileInputs.cache
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\bin\Debug\C-Presentacion.exe.config
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\bin\Debug\C-Presentacion.exe
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\bin\Debug\C-Presentacion.pdb
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\bin\Debug\C-Negocio.dll
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\bin\Debug\C-Datos.dll
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\bin\Debug\C-Entidades.dll
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\bin\Debug\C-Negocio.pdb
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\bin\Debug\C-Datos.pdb
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\bin\Debug\C-Entidades.pdb
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\obj\Debug\C-Presentacion.csproj.CopyComplete
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\obj\Debug\C-Presentacion.exe
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Presentacion\obj\Debug\C-Presentacion.pdb

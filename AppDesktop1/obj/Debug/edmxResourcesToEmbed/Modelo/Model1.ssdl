@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CrCrudModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="datos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="producto" Type="varchar" MaxLength="255" />
+    <Property Name="valor" Type="int" />
+    <Property Name="fk_usuarios" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="usuarios">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre_usuario" Type="varchar" MaxLength="255" />
+    <Property Name="nombre_completo" Type="varchar" MaxLength="255" />
+    <Property Name="pass" Type="varchar" MaxLength="255" />
+    <Property Name="rol" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <Association Name="FK__datos__fk_usuari__4D94879B">
+    <End Role="usuarios" Type="Self.usuarios" Multiplicity="1" />
+    <End Role="datos" Type="Self.datos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="usuarios">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="datos">
+        <PropertyRef Name="fk_usuarios" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CrCrudModelStoreContainer">
+    <EntitySet Name="datos" EntityType="Self.datos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="usuarios" EntityType="Self.usuarios" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__datos__fk_usuari__4D94879B" Association="Self.FK__datos__fk_usuari__4D94879B">
+      <End Role="usuarios" EntitySet="usuarios" />
+      <End Role="datos" EntitySet="datos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

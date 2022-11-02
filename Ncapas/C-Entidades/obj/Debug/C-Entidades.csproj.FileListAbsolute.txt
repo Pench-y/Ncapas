@@ -1,0 +1,6 @@
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Entidades\bin\Debug\C-Entidades.dll
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Entidades\bin\Debug\C-Entidades.pdb
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Entidades\obj\Debug\C-Entidades.csproj.AssemblyReference.cache
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Entidades\obj\Debug\C-Entidades.csproj.CoreCompileInputs.cache
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Entidades\obj\Debug\C-Entidades.dll
+G:\DATOS\Documents\Aplicacion_Consola .net C#\Ncapas\C-Entidades\obj\Debug\C-Entidades.pdb
